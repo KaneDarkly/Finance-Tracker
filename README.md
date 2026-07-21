@@ -1,5 +1,7 @@
 # Personal Finance Tracker
 
+https://roadmap.sh/projects/expense-tracker
+
 A simple command-line finance tracking application written in Python. It allows users to create, view, and delete finance records, which are stored locally in a JSON file.
 
 ## Features
